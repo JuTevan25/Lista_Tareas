@@ -10,6 +10,8 @@ Programa que permite al usuario administrar su asignación de tareas de manera f
 - ✅ Añadir tarea con su nombre, descripción y fecha límite para ser completada.
 - ✅ Filtros en estadísticas.
 - ✅ Experiencia de usuario mejorada.
+- ✅ Interfaz cómodo.
+- ✅ Guardado de datos en formato .JSON
 
 🛠️ Tecnologías
 Lenguaje: C# Plataforma: .NET (cualquier versión que soporte consola) Compilador: dotnet, Visual Studio o csc 📦 Requisitos previos
